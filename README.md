@@ -106,6 +106,8 @@ Loja 3: R$ 33,07
 
 Loja 4: R$ 31,28<br><br>
 
+![Frete médio](/fretemedio.png)
+
 A Loja 4 apresenta o custo médio de frete mais baixo, o que é uma vantagem operacional em termos de custos.<br><br>
 
 **<u>Análise Conclusiva</u>**<br><br>
