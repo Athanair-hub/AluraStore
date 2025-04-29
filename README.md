@@ -55,7 +55,7 @@ Loja 2: A maior venda foi de móveis (442 unidades), seguida de eletrônicos (42
 
 Loja 3: A maior venda foi de móveis (499 unidades), seguida de eletrônicos (451 unidades).
 
-Loja 4: A maior venda foi de móveis (480 unidades), seguida de eletrônicos (451 unidades).
+Loja 4: A maior venda foi de móveis (480 unidades), seguida de eletrônicos (451 unidades).<br><br>
 
 ![Vendas por categoria](/vendascategoria.png)
 
