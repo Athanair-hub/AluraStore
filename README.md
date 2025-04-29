@@ -28,7 +28,7 @@ A estrutura do projeto é organizada da seguinte forma:<br><br>
 
 Após a análise detalhada das informações fornecidas sobre as lojas da rede Alura Store, com base no faturamento total, vendas por categoria, média de avaliação, produtos mais e menos vendidos e custo médio de frete, o objetivo é determinar qual loja apresenta o menor desempenho e deve ser considerada para venda.
 
-**<u>Faturamento Total:</u>**<br>
+**<u>Faturamento Total</u>**<br>
 
 O faturamento total de cada loja é um dos principais indicadores de performance. As lojas estão organizadas conforme o faturamento total:
 
