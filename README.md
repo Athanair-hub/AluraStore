@@ -40,6 +40,8 @@ Loja 3: R$ 1.464.025,03
 
 Loja 4: R$ 1.384.497,58<br><br>
 
+![Faturamento](/faturamento.png)
+
 A **Loja 4** apresenta o menor faturamento total, com R$ 1.384.497,58, o que pode indicar uma performance abaixo das outras lojas.<br><br>
 
 **<u>Vendas por Categoria de Produto</u>**<br><br>
