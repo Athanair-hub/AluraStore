@@ -57,6 +57,8 @@ Loja 3: A maior venda foi de móveis (499 unidades), seguida de eletrônicos (45
 
 Loja 4: A maior venda foi de móveis (480 unidades), seguida de eletrônicos (451 unidades).
 
+![Vendas por categoria](/vendascategoria.png)
+
 A **Loja 4** tem um desempenho de vendas um pouco abaixo em várias categorias, especialmente em eletrodomésticos e instrumentos musicais, se comparada às outras lojas, que mostram mais equilíbrio nas vendas.<br><br>
 
 **<u>Média de Avaliação</u>**<br><br>
