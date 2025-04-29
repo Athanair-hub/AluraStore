@@ -90,6 +90,8 @@ Loja 3: O kit banquetas é o produto mais vendido com 57 unidades, e o bloco de 
 
 Loja 4: O produto mais vendido é a cama box com 62 unidades, e o menos vendido é a guitarra com 33 unidades.<br><br>
 
+![Mais e menos vendidos](/maismenosvendidos.png)
+
 Embora a **Loja 4** tenha um bom desempenho em termos de produtos mais vendidos, o baixo número de vendas de produtos como guitarras pode indicar uma limitação de opções ou demanda para certos produtos.<br><br>
 
 **<u>Custo Médio do Frete</u>**<br><br>
