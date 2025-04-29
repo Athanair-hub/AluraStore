@@ -74,7 +74,7 @@ Loja 3: Média de 4.05
 
 Loja 4: Média de 3.99<br><br>
 
-![Média de avaliação](/mediavaliacao.png)
+![Média de avaliação](/mediaavaliacao.png)
 
 A **Loja 3** se destaca com a maior média de avaliação, mostrando um bom nível de satisfação do cliente. A Loja 4, com a menor média de avaliação, pode indicar uma experiência do cliente abaixo das expectativas.<br><br>
 
