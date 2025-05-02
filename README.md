@@ -1,3 +1,5 @@
+[Clique aqui para acessar o notebook do projeto](https://colab.research.google.com/drive/13BibQO3OVRPrzycJwc4FNkz5SR2i0qNJ#scrollTo=dd7AeOnyT1s5)
+
 # Análise de Vendas e Desempenho de Lojas - Alura Store
 
 ## Propósito da Análise
