@@ -38,23 +38,23 @@ O critério definido é desempenho geral mais fraco.<br><br>
 
 **<h3>Indicadores Avaliados:**<br><br>
 
-. Faturamento total
+- Faturamento total
 
-. Categorias mais vendidas
+- Categorias mais vendidas
 
-. Produto mais vendido
+- Produto mais vendido
 
-. Produto menos vendido
+- Produto menos vendido
 
-. Avaliação média dos clientes
+- Avaliação média dos clientes
 
-. Frete médio
+- Frete médio
 
-. Local de compra mais frequente
+- Local de compra mais frequente
 
-. Tipo de pagamento mais comum
+- Tipo de pagamento mais comum
 
-. Desempenho por ano e mês (vendedores e local)<br><br>
+- Desempenho por ano e mês (vendedores e local)<br><br>
 
 **<h3>Faturamento Total**<br><br>
 
@@ -65,7 +65,7 @@ Loja 2: | R$ 1.567.773,22
 Loja 3:	| R$ 1.542.047,69
 Loja 4:	| R$ 1.458.253,46 🔻
 
- ![Faturamento](/faturamento.png)        
+<br><br> ![Faturamento](/imagens/faturamento.png)        
 
 <br>**Análise:**<br><br>
 
@@ -80,6 +80,8 @@ Loja 2:	| 4.04
 Loja 3:	| 4.05
 Loja 4:	| 4.00
 
+<br><br> ![Avaliação Média](/imagens/mediaavaliacao.png)
+
 <br>**Análise:**<br><br>
 
 A **Loja 1** apresenta a menor média de avaliação dos clientes, o que sugere que a experiência de compra pode não ser tão satisfatória quanto nas outras lojas.<br><br>
@@ -93,6 +95,8 @@ Loja 2:	| R$ 33,62
 Loja 3:	| R$ 33,07
 Loja 4:	| R$ 31,28
 
+<br><br> ![Frete Médio](/imagens/fretemedio.png)
+
 <br>**Análise:**<br><br>
 
 A **Loja 4** possui o menor frete médio, o que pode ser considerado uma vantagem em termos de custo logístico, mas isso não compensa o desempenho em outras áreas.<br><br>
@@ -105,6 +109,8 @@ Loja 1:	| Eletrônicos: | 469
 Loja 2:	| Brinquedos: |440
 Loja 3:	| Móveis:	| 453
 Loja 4:	| Móveis:	| 480
+
+<br><br> ![Categorias mais vendidas](/imagens/vendascategorialoja.png)
 
 <br>**Análise:**<br><br>
 
@@ -127,6 +133,14 @@ Jogo de panelas: | 200
 Cama box: | 199
 Blocos de montar: | 199
 
+<br><br> ![Produtos mais vendidos](/imagens/maisvendidosloja1.png)
+
+<br><br> ![Produtos mais vendidos](/imagens/maisvendidosloja2.png)
+
+<br><br> ![Produtos mais vendidos](/imagens/maisvendidosloja3.png)
+
+<br><br> ![Produtos mais vendidos](/imagens/maisvendidosloja4.png)
+
 <br>**Análise:**<br><br>
 
 Os produtos mais vendidos mostram uma tendência clara de alta demanda em itens como móveis e eletrodomésticos. A Cômoda e o Carrinho controle remoto estão entre os produtos de maior destaque.<br><br>
@@ -145,6 +159,14 @@ Guitarra | 165
 Mochila	| 163
 Headset | 158
 Celular ABXY | 157
+
+<br><br> ![Produtos menos vendidos](/imagens/menosvendidosloja1.png)
+
+<br><br> ![Produtos menos vendidos](/imagens/menosvendidosloja2.png)
+
+<br><br> ![Produtos menos vendidos](/imagens/menosvendidosloja3.png)
+
+<br><br> ![Produtos menos vendidos](/imagens/menosvendidosloja4.png)
 
 <br>**Análise:**<br><br>
 
@@ -178,7 +200,7 @@ A **Loja 4** apresenta uma variação de vendedores ao longo dos anos, com uma l
 
 Indicador	| Loja 1 | Loja 2 | Loja 3 | Loja 4 | Pior Desempenho
 ----------|--------|--------|--------|--------|-------------------
-Faturamento Total|R$ 1.616.347|R$ 1.567.773|R$ 1.542.047|R$ 1.458.253|Loja 4
+Faturamento Total|R$1.616.347|R$1.567.773|R$1.542.047|R$1.458.253|Loja 4
 Avaliação Média |	3.98 |	4.04 |	4.05 |	4.00 |	Loja 1
 Frete Médio |	R$ 34,69 |	R$ 33,62 |	R$ 33,07 |	R$ 31,28 |	Loja 1
 Estabilidade em Vendas |	OK |	OK |	OK |	🔻 Variável |	Loja 4
@@ -229,13 +251,13 @@ Para executar o notebook e reproduzir a análise, siga os passos abaixo:
 
 **<u>Passos</u>**<br><br>
 
-. Clone ou faça o download deste repositório.
+- Clone ou faça o download deste repositório.
 
-. Abra o notebook AluraStoreBr.ipynb no Google Colab.
+- Abra o notebook AluraStoreBr.ipynb no Google Colab.
 
-. Execute as células do notebook para realizar as análises. A primeira célula 
+- Execute as células do notebook para realizar as análises. A primeira célula 
   carrega os dados e as bibliotecas necessárias.
 
-. Observe os gráficos gerados e os insights nas células subsequentes.<br><br>
+- Observe os gráficos gerados e os insights nas células subsequentes.<br><br>
 
 Após a execução do notebook, você terá uma visão clara do desempenho das lojas e poderá determinar qual loja deve ser vendida com base nas análises realizadas.
