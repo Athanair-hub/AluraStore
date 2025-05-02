@@ -60,10 +60,10 @@ O critério definido é desempenho geral mais fraco.<br><br>
 
  Loja   |  Faturamento Total<br>
  -------|-------------------
-Loja 1:	| R$ 1.616.347,09
-Loja 2: | R$ 1.567.773,22
-Loja 3:	| R$ 1.542.047,69
-Loja 4:	| R$ 1.458.253,46 🔻
+Loja 1	| R$ 1.616.347,09
+Loja 2 | R$ 1.567.773,22
+Loja 3	| R$ 1.542.047,69
+Loja 4	| R$ 1.458.253,46 🔻
 
 <br><br> ![Faturamento](/imagens/faturamento.png)        
 
@@ -75,10 +75,10 @@ A **Loja 4** tem o menor faturamento total entre todas as lojas. Isso é um indi
 
 Loja | Avaliação Média
 -----|----------------
-Loja 1: | 3.98 🔻
-Loja 2:	| 4.04
-Loja 3:	| 4.05
-Loja 4:	| 4.00
+Loja 1 | 3.98 🔻
+Loja 2	| 4.04
+Loja 3	| 4.05
+Loja 4	| 4.00
 
 <br><br> ![Avaliação Média](/imagens/mediaavaliacao.png)
 
@@ -90,10 +90,10 @@ A **Loja 1** apresenta a menor média de avaliação dos clientes, o que sugere 
 
 Loja | Frete Médio
 -----|------------
-Loja 1:	| R$ 34,69 🔻
-Loja 2:	| R$ 33,62
-Loja 3:	| R$ 33,07
-Loja 4:	| R$ 31,28
+Loja 1	| R$ 34,69 🔻
+Loja 2	| R$ 33,62
+Loja 3	| R$ 33,07
+Loja 4	| R$ 31,28
 
 <br><br> ![Frete Médio](/imagens/fretemedio.png)
 
@@ -105,10 +105,10 @@ A **Loja 4** possui o menor frete médio, o que pode ser considerado uma vantage
 
 Loja | Top Categoria | Quantidade
 -----|---------------|------------
-Loja 1:	| Eletrônicos: | 469
-Loja 2:	| Brinquedos: |440
-Loja 3:	| Móveis:	| 453
-Loja 4:	| Móveis:	| 480
+Loja 1	| Eletrônicos | 469
+Loja 2	| Brinquedos |440
+Loja 3	| Móveis	| 453
+Loja 4	| Móveis	| 480
 
 <br><br> ![Categorias mais vendidas](/imagens/vendascategorialoja.png)
 
@@ -122,16 +122,16 @@ A **Loja 4** lidera nas vendas de móveis, mas isso não se traduz em um faturam
 
 Produto | Quantidade
 --------|------------
-Cômoda:	| 210
-Carrinho controle remoto: | 206
-Micro-ondas: | 206
-Bateria: | 203
-Cama king: | 201
-Secadora de roupas: | 200
-Modelagem preditiva: | 200
-Jogo de panelas: | 200
-Cama box: | 199
-Blocos de montar: | 199
+Cômoda	| 210
+Carrinho controle remoto | 206
+Micro-ondas | 206
+Bateria | 203
+Cama king | 201
+Secadora de roupas | 200
+Modelagem preditiva | 200
+Jogo de panelas | 200
+Cama box | 199
+Blocos de montar | 199
 
 <br><br> ![Produtos mais vendidos](/imagens/maisvendidosloja1.png)
 
