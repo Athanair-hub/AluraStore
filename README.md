@@ -24,91 +24,185 @@ A estrutura do projeto é organizada da seguinte forma:<br><br>
 
 5. Frete Médio por Loja<br><br>
 
-## Relatório de Análise para Decisão de Venda da Loja
+## Relatório de Análise para Decisão de Venda da Loja<br><br>
 
-Após a análise detalhada das informações fornecidas sobre as lojas da rede Alura Store, com base no faturamento total, vendas por categoria, média de avaliação, produtos mais e menos vendidos e custo médio de frete, o objetivo é determinar qual loja apresenta o menor desempenho e deve ser considerada para venda.
+Após a análise detalhada das informações fornecidas sobre as lojas da rede Alura Store, com base no faturamento total, vendas por categoria, média de avaliação, produtos mais e menos vendidos e custo médio de frete, o objetivo é determinar qual loja apresenta o menor desempenho e deve ser considerada para venda.<br><br>
 
-**<u>Faturamento Total</u>**<br>
+##Relatório de Análise Comparativa – Lojas da Allure Store<br><br>
 
-O faturamento total de cada loja é um dos principais indicadores de performance. As lojas estão organizadas conforme o faturamento total:
+**<h3>Objetivo:**<br><br>
 
-Loja 1: R$ 1.534.509,12
+Auxiliar o Sr. João na decisão de venda de uma das quatro lojas da Allure Store, com base em indicadores de desempenho. <br><br>
 
-Loja 2: R$ 1.488.459,06
+O critério definido é desempenho geral mais fraco.<br><br>
 
-Loja 3: R$ 1.464.025,03
+**<h3>Indicadores Avaliados:**<br><br>
 
-Loja 4: R$ 1.384.497,58<br><br>
+. Faturamento total
 
-![Faturamento](/faturamento.png)
+. Categorias mais vendidas
 
-A **Loja 4** apresenta o menor faturamento total, com R$ 1.384.497,58, o que pode indicar uma performance abaixo das outras lojas.<br><br>
+. Produto mais vendido
 
-**<u>Vendas por Categoria de Produto</u>**<br><br>
+. Produto menos vendido
 
-Analisando as categorias de produto mais vendidas em cada loja, verificamos a quantidade de unidades vendidas para as principais categorias:<br><br>
+. Avaliação média dos clientes
+
+. Frete médio
+
+. Local de compra mais frequente
+
+. Tipo de pagamento mais comum
+
+. Desempenho por ano e mês (vendedores e local)<br><br>
+
+**<h3>Faturamento Total**<br><br>
+
+ Loja   |  Faturamento Total<br>
+ -------|-------------------
+Loja 1:	| R$ 1.616.347,09
+     Loja 2: | R$ 1.567.773,22
+        Loja 3:	| R$ 1.542.047,69
+         Loja 4:	| R$ 1.458.253,46 🔻
+
+ ![Faturamento](/faturamento.png)        
+
+<br>**Análise:**<br><br>
+
+A **Loja 4** tem o menor faturamento total entre todas as lojas. Isso é um indicativo de menor desempenho financeiro em relação às demais lojas.<br><br>
+
+**<h3>Avaliação Média dos Clientes**<br><br>
+
+Loja | Avaliação Média
+-----|----------------
+Loja 1: | 3.98 🔻
+Loja 2:	| 4.04
+Loja 3:	| 4.05
+Loja 4:	| 4.00
+
+<br>**Análise:**<br><br>
+
+A **Loja 1** apresenta a menor média de avaliação dos clientes, o que sugere que a experiência de compra pode não ser tão satisfatória quanto nas outras lojas.<br><br>
+
+**<h3>Frete Médio**<br><br>
+
+Loja | Frete Médio
+-----|------------
+  Loja 1:	| R$ 34,69 🔻
+     Loja 2:	| R$ 33,62
+     Loja 3:	| R$ 33,07
+       Loja 4:	| R$ 31,28
+
+<br>**Análise:**<br><br>
+
+A **Loja 4** possui o menor frete médio, o que pode ser considerado uma vantagem em termos de custo logístico, mas isso não compensa o desempenho em outras áreas.<br><br>
+
+**<h3>Categorias Mais Vendidas por Loja**<br><br>
+
+Loja | Top Categoria | Quantidade
+-----|---------------|------------
+Loja 1:	| Eletrônicos: | 469
+Loja 2:	| Brinquedos: |440
+Loja 3:	| Móveis:	| 453
+Loja 4:	| Móveis:	| 480
+
+<br>**Análise:**<br><br>
+
+A **Loja 4** lidera nas vendas de móveis, mas isso não se traduz em um faturamento superior. Apesar de ser a líder em sua categoria, a Loja 4 não lidera em termos financeiros.
+
+**<h3>Produtos Mais e Menos Vendidos**<br><br>
+
+**Produtos Mais Vendidos (Top 10 de Todas as Lojas)**<br><br>
+
+Produto | Quantidade
+--------|------------
+Cômoda:	| 210
+Carrinho controle remoto: | 206
+Micro-ondas: | 206
+Bateria: | 203
+Cama king: | 201
+Secadora de roupas: | 200
+Modelagem preditiva: | 200
+Jogo de panelas: | 200
+Cama box: | 199
+Blocos de montar: | 199
+
+<br>**Análise:**<br><br>
+
+Os produtos mais vendidos mostram uma tendência clara de alta demanda em itens como móveis e eletrodomésticos. A Cômoda e o Carrinho controle remoto estão entre os produtos de maior destaque.<br><br>
+
+**Produtos Menos Vendidos (Top 10 de Todas as Lojas)**
+
+Produto	| Quantidade
+--------|-------------
+Panela de pressão |	172
+Smartwatch | 172
+Jogo de copos | 169
+Poltrona | 168
+Assistente virtual | 167
+Ciência de dados com python | 166
+Guitarra | 165
+Mochila	| 163
+Headset | 158
+Celular ABXY | 157
+
+<br>**Análise:**<br><br>
+
+Os produtos menos vendidos incluem itens como Smartwatch e Poltrona, com vendas notavelmente mais baixas. Esses produtos podem estar passando por menos procura no mercado.<br><br>
+
+**Local com Mais Compras (por ano)**<br><br>
+
+Todas as lojas têm São Paulo (SP) como principal local de compras em todos os anos e meses, indicando um padrão uniforme de operação geográfica. Isso não mostra grandes diferenças entre as lojas em termos de distribuição geográfica das vendas.<br><br>
+
+**Tipo de Pagamento Mais Utilizado (por ano e mês)**<br><br>
+
+Em todas as lojas, o cartão de crédito é o tipo de pagamento mais utilizado. Isso também indica um padrão semelhante de consumo entre as lojas, com a preferência dos clientes pelo pagamento parcelado.<br><br>
+
+**Vendedor com Mais Vendas por Ano**<br><br>
+
+Loja 4 (Exemplo)
+
+Ano | Top Vendedor
+----|---------------
+2020 | João Souza
+2021 | Mariana Ferreira
+2022 | Felipe Santos
+2023 | Felipe Santos
+
+<br>**Análise:**<br><br>
+
+A **Loja 4** apresenta uma variação de vendedores ao longo dos anos, com uma leve repetição de Felipe Santos como vendedor de destaque em 2022 e 2023, o que sugere uma estabilidade recente.<br><br>
 
 
-Loja 1: A maior venda foi de móveis (465 unidades), seguida de eletrônicos (448 unidades).
+**Resumo Geral Comparativo**
 
-Loja 2: A maior venda foi de móveis (442 unidades), seguida de eletrônicos (422 unidades).
-
-Loja 3: A maior venda foi de móveis (499 unidades), seguida de eletrônicos (451 unidades).
-
-Loja 4: A maior venda foi de móveis (480 unidades), seguida de eletrônicos (451 unidades).<br><br>
-
-![Vendas por categoria](/vendascategoria.png)
-
-A **Loja 4** tem um desempenho de vendas um pouco abaixo em várias categorias, especialmente em eletrodomésticos e instrumentos musicais, se comparada às outras lojas, que mostram mais equilíbrio nas vendas.<br><br>
-
-**<u>Média de Avaliação</u>**<br><br>
-
-A média de avaliação dos clientes é uma métrica importante para entender a satisfação dos consumidores:<br><br>
+Indicador	| Loja 1 | Loja 2 | Loja 3 | Loja 4 | Pior Desempenho
+----------|--------|--------|--------|--------|-------------------
+        Faturamento Total|R$ 1.616.347|R$ 1.567.773|R$ 1.542.047|R$ 1.458.253|Loja 4
+      Avaliação Média |	3.98 |	4.04 |	4.05 |	4.00 |	Loja 1
+           Frete Médio |	R$ 34,69 |	R$ 33,62 |	R$ 33,07 |	R$ 31,28 |	Loja 1
+Estabilidade em Vendas |	OK |	OK |	OK |	🔻 Variável |	Loja 4
+Crescimento | 2023 |	Estável |	Estável |	Estável |	🔻 Reduzido |	Loja 4
 
 
-Loja 1: Média de 3.98
+<br>**Recomendação Final**<br><br>
 
-Loja 2: Média de 4.04
+**Vender a Loja 4**<br><br>
 
-Loja 3: Média de 4.05
+**Justificativas:**<br><br>
 
-Loja 4: Média de 3.99<br><br>
+Menor faturamento absoluto: A Loja 4 apresenta o menor faturamento total, o que indica um desempenho financeiro mais fraco.<br><br>
 
-![Média de avaliação](/mediaavaliacao.png)
+Desempenho de vendas mais fraco em 2023: O desempenho da Loja 4 foi mais fraco em termos de crescimento e estabilidade nas vendas.<br><br>
 
-A **Loja 3** se destaca com a maior média de avaliação, mostrando um bom nível de satisfação do cliente. A Loja 4, com a menor média de avaliação, pode indicar uma experiência do cliente abaixo das expectativas.<br><br>
+Menor estabilidade nos rankings de vendedores: A variação na liderança dos vendedores da Loja 4 sugere menos estabilidade no time de vendas.<br><br>
 
-**<u>Produtos Mais e Menos Vendidos</u>**<br><br>
+Avaliação de clientes e frete não compensam a baixa performance: Embora a Loja 4 tenha o frete mais baixo, sua avaliação de clientes e o desempenho geral não são suficientes para compensar o menor faturamento.<br><br>
 
-Verificando os produtos mais e menos vendidos, observamos:<br><br>
+Potencial menor de crescimento: Com um desempenho de vendas reduzido e instabilidade em 2023, a Loja 4 apresenta um potencial de crescimento menor em comparação com as outras lojas.<br><br>
 
-Loja 1: O micro-ondas é o produto mais vendido, com 60 unidades, e o headset o menos vendido, com 33 unidades.<br><br>
+Essa análise indica que a Loja 4 deve ser vendida para focar em opções com melhor desempenho financeiro e potencial de crescimento.<br><br>
 
-Loja 2: O produto mais vendido é "Iniciando em programação" com 65 unidades, e o menos vendido é o jogo de tabuleiro com 32 unidades.<br><br>
-
-Loja 3: O kit banquetas é o produto mais vendido com 57 unidades, e o bloco de montar o menos vendido com 35 unidades.<br><br>
-
-Loja 4: O produto mais vendido é a cama box com 62 unidades, e o menos vendido é a guitarra com 33 unidades.<br><br>
-
-![Mais e menos vendidos](/maisemenosvendidos.png)
-
-Embora a **Loja 4** tenha um bom desempenho em termos de produtos mais vendidos, o baixo número de vendas de produtos como guitarras pode indicar uma limitação de opções ou demanda para certos produtos.<br><br>
-
-**<u>Custo Médio do Frete</u>**<br><br>
-
-O custo do frete também é uma métrica importante para entender os custos operacionais:<br><br>
-
-Loja 1: R$ 34,69
-
-Loja 2: R$ 33,62
-
-Loja 3: R$ 33,07
-
-Loja 4: R$ 31,28<br><br>
-
-![Frete médio](/fretemedio.png)
-
-A Loja 4 apresenta o custo médio de frete mais baixo, o que é uma vantagem operacional em termos de custos.<br><br>
 
 **<u>Análise Conclusiva</u>**<br><br>
 
