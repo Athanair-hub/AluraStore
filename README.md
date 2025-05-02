@@ -61,9 +61,9 @@ O critério definido é desempenho geral mais fraco.<br><br>
  Loja   |  Faturamento Total<br>
  -------|-------------------
 Loja 1:	| R$ 1.616.347,09
-     Loja 2: | R$ 1.567.773,22
-        Loja 3:	| R$ 1.542.047,69
-         Loja 4:	| R$ 1.458.253,46 🔻
+Loja 2: | R$ 1.567.773,22
+Loja 3:	| R$ 1.542.047,69
+Loja 4:	| R$ 1.458.253,46 🔻
 
  ![Faturamento](/faturamento.png)        
 
@@ -88,10 +88,10 @@ A **Loja 1** apresenta a menor média de avaliação dos clientes, o que sugere 
 
 Loja | Frete Médio
 -----|------------
-  Loja 1:	| R$ 34,69 🔻
-     Loja 2:	| R$ 33,62
-     Loja 3:	| R$ 33,07
-       Loja 4:	| R$ 31,28
+Loja 1:	| R$ 34,69 🔻
+Loja 2:	| R$ 33,62
+Loja 3:	| R$ 33,07
+Loja 4:	| R$ 31,28
 
 <br>**Análise:**<br><br>
 
@@ -178,9 +178,9 @@ A **Loja 4** apresenta uma variação de vendedores ao longo dos anos, com uma l
 
 Indicador	| Loja 1 | Loja 2 | Loja 3 | Loja 4 | Pior Desempenho
 ----------|--------|--------|--------|--------|-------------------
-        Faturamento Total|R$ 1.616.347|R$ 1.567.773|R$ 1.542.047|R$ 1.458.253|Loja 4
-      Avaliação Média |	3.98 |	4.04 |	4.05 |	4.00 |	Loja 1
-           Frete Médio |	R$ 34,69 |	R$ 33,62 |	R$ 33,07 |	R$ 31,28 |	Loja 1
+Faturamento Total|R$ 1.616.347|R$ 1.567.773|R$ 1.542.047|R$ 1.458.253|Loja 4
+Avaliação Média |	3.98 |	4.04 |	4.05 |	4.00 |	Loja 1
+Frete Médio |	R$ 34,69 |	R$ 33,62 |	R$ 33,07 |	R$ 31,28 |	Loja 1
 Estabilidade em Vendas |	OK |	OK |	OK |	🔻 Variável |	Loja 4
 Crescimento | 2023 |	Estável |	Estável |	Estável |	🔻 Reduzido |	Loja 4
 
