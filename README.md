@@ -28,7 +28,7 @@ A estrutura do projeto é organizada da seguinte forma:<br><br>
 
 Após a análise detalhada das informações fornecidas sobre as lojas da rede Alura Store, com base no faturamento total, vendas por categoria, média de avaliação, produtos mais e menos vendidos e custo médio de frete, o objetivo é determinar qual loja apresenta o menor desempenho e deve ser considerada para venda.<br><br>
 
-##Relatório de Análise Comparativa – Lojas da Allure Store<br><br>
+## Relatório de Análise Comparativa – Lojas da Allure Store<br><br>
 
 **<h3>Objetivo:**<br><br>
 
